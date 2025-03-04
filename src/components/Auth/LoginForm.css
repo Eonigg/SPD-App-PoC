@@ -1,0 +1,27 @@
+.login-box {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
+
+.login-paper {
+  padding: 16px;
+  border-radius: 16px;
+  background-color: #263a55;
+}
+
+.login-form {
+  margin-top: 8px;
+}
+
+.login-button {
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+
+.login-text {
+  color: #ffffff; /* Dark gray color */
+}
